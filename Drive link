@@ -1,6 +1,9 @@
 DL https://drive.google.com/drive/folders/1Q35nV0NWcsDR9zOvQcfPpgv2AvsDOTPV?usp=sharing
 
-
+#### !pip uninstall -y transformers tokenizers
+#### !pip install transformers==4.41.2 tensorflow
+#### import os
+#### os.kill(os.getpid(), 9)
 
 BDA https://drive.google.com/drive/folders/17ETOsWE89GPYeXhe4oCjqaNfrbJ_W2wB
 Mid-1 BDAhttps://claude.ai/share/30bca510-021f-4bda-a427-76b0dfc38285
